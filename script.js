@@ -44,7 +44,7 @@ const QUESTIONS = [
     a: [
       ["Biru", 1],
       ["Hijau", 1],
-      ["Ungu 💜", 2],
+      ["Ungu ", 2],
       ["Pink", 1]
     ]
   },
@@ -52,7 +52,7 @@ const QUESTIONS = [
   {
     q: "Apa ice cream favorit aku?",
     a: [
-      ["Vanilla 🍦", 2],
+      ["Vanilla ", 2],
       ["Cokelat", 1],
       ["Strawberry", 1],
       ["Matcha", 1]
@@ -65,7 +65,7 @@ const QUESTIONS = [
       ["Lurus aja", 1],
       ["Kuncir pita", 1],
       ["Kepang", 1],
-      ["Kuncir kuda 🎀", 2]
+      ["Kuncir kuda", 2]
     ]
   },
 
@@ -82,8 +82,8 @@ const QUESTIONS = [
   {
     q: "Apa kebiasaan buruk aku?",
     a: [
-      ["Begadang sampai larut malam 🌙", 2],
-      ["Kuntut sembarang 😭", 1],
+      ["Begadang sampai larut malam", 2],
+      ["Kuntut sembarang", 1],
       ["Makan terlalu banyak", 1],
       ["Suka gigit kuku", 1]
     ]
@@ -94,7 +94,7 @@ const QUESTIONS = [
     a: [
       ["Di belakang", 1],
       ["Di tengah", 1],
-      ["Di depan 👀", 2]
+      ["Di depan", 2]
     ]
   },
 
@@ -111,7 +111,7 @@ const QUESTIONS = [
   {
     q: "Hal yang aku suka?",
     a: [
-      ["Tidur 😴", 2],
+      ["Tidur", 2],
       ["Gosip", 1],
       ["Makan", 1],
       ["Jalan-jalan", 1]
@@ -124,7 +124,7 @@ const QUESTIONS = [
       ["6", 1],
       ["9", 1],
       ["7", 1],
-      ["8 🎂", 2]
+      ["8 ", 2]
     ]
   },
 
@@ -132,7 +132,7 @@ const QUESTIONS = [
     q: "Sifat aku?",
     a: [
       ["Introvert", 1],
-      ["Ambivert ✨", 2],
+      ["Ambivert ", 2],
       ["Ekstrovert", 1]
     ]
   },
@@ -143,7 +143,7 @@ const QUESTIONS = [
       ["Mangga", 1],
       ["Apel", 1],
       ["Anggur", 1],
-      ["Strawberry 🍓", 1]
+      ["Strawberry ", 1]
     ]
   },
 
@@ -151,7 +151,7 @@ const QUESTIONS = [
     q: "Gaya bibir favorite aku?",
     a: [
       ["Senyum biasa", 1],
-      ["Manyun 😗", 2],
+      ["Manyun ", 2],
       ["Downward smile", 1],
       ["Angka 8", 1]
     ]
@@ -160,16 +160,16 @@ const QUESTIONS = [
   {
     q: "Tipe cowok yang aku suka?",
     a: [
-      ["Red flag 🚩", 1],
-      ["Black flag 🖤", 2],
-      ["Green flag 💚", 1]
+      ["Red flag", 1],
+      ["Black flag", 2],
+      ["Green flag", 1]
     ]
   },
 
   {
     q: "Game favorit aku?",
     a: [
-      ["VD 🎮", 2],
+      ["VD ", 2],
       ["EVADE", 1],
       ["FF", 1],
       ["ML", 1]
